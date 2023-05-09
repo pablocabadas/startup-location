@@ -1,3 +1,5 @@
 .env
 .gitignore
-.ipynb_checkpoints/project-III-checkpoint.ipynb
+.ipynb_checkpoints
+Maps
+df's
