@@ -1,0 +1,240 @@
+name,category_code,founded_year,total_money_raised,latitude,longitude
+Digg,news,2004.0,$45M,37.764726,-122.394523
+Twitter,social,2006.0,$1.16B,37.7768052,-122.4169244
+StumbleUpon,web,2002.0,$18.5M,37.775196,-122.419204
+Powerset,search,2006.0,$22.5M,37.778613,-122.395289
+Technorati,advertising,2002.0,$32.1M,37.779558,-122.393041
+Kyte,games_video,2006.0,$23.4M,37.788482,-122.409173
+Prosper,finance,2006.0,$120M,37.78976,-122.402524
+Ustream,games_video,2007.0,$60.1M,37.392936,-122.07948
+Revision3,games_video,2005.0,$9M,37.757758,-122.388243
+CastTV,games_video,2006.0,$3.1M,37.780716,-122.393913
+Mashery,enterprise,2006.0,$34.7M,37.7870842,-122.4038047
+Yelp,search,2004.0,$90M,37.786183,-122.402195
+Pageflakes,web,2006.0,$4.1M,37.758113,-122.414689
+Swivel,search,2005.0,$2M,37.789268,-122.395184
+Slide,public_relations,2005.0,$78M,37.781427,-122.392144
+Bebo,web,2005.0,$15M,37.782103,-122.401116
+Dogster,web,2004.0,$1M,37.762681,-122.400909
+adBrite,advertising,2003.0,$40.4M,37.779026,-122.40184
+Loomia,web,2004.0,$7.5M,37.796396,-122.404869
+Seesmic,web,2007.0,$16M,37.775196,-122.419204
+Flixster,web,2006.0,$7.18M,37.766909,-122.406676
+Piczo,network_hosting,1990.0,$11M,37.793703,-122.398479
+PowerReviews,social,,$40.1M,37.779558,-122.393041
+hi5,games_video,2003.0,$52M,37.788668,-122.400558
+Tagged,social,2004.0,$28.7M,37.7753,-122.4186
+Curse,games_video,2006.0,$12M,37.787092,-122.399972
+Grockit,social,2006.0,$44.7M,37.775196,-122.419204
+Kiptronic,advertising,2005.0,$7.3M,37.792394,-122.402349
+Snapfish,network_hosting,1999.0,$43.5M,37.78554,-122.396689
+Viagogo,ecommerce,2005.0,$65M,51.500152,-0.126236
+Metacafe,games_video,2003.0,$50M,37.437328,-122.159928
+Kontera,advertising,2003.0,$36.1M,37.767575,-122.411157
+TokBox,messaging,2007.0,$26M,37.779507,-122.39071
+Yola,web,2007.0,$25M,37.7911148,-122.3954751
+BitTorrent,web,2004.0,$40.8M,37.790998,-122.394668
+Kongregate,games_video,2006.0,$19M,37.786942,-122.401245
+DanceJam,games_video,2007.0,$4.5M,37.781557,-122.407959
+Kiva,finance,2005.0,$9M,37.762125,-122.4147
+Fathom Online,advertising,2002.0,$6M,37.775196,-122.419204
+Zivity,network_hosting,2007.0,$8M,37.789488,-122.397593
+Mevio,games_video,2004.0,$48.9M,37.782263,-122.392142
+Atom Entertainment,web,,$22.9M,37.790964,-122.401128
+Greystripe,advertising,2005.0,$17.6M,37.710677,-122.39323
+Trulia,search,2004.0,$255M,37.766909,-122.406676
+OpenTable,web,1998.0,$48M,37.785647,-122.405265
+Crunchyroll,games_video,2008.0,$4.8M,37.781265,-122.393229
+TripIt,travel,2006.0,$13.1M,37.764169,-122.402021
+Jawbone,hardware,1999.0,$403M,37.768708,-122.402866
+3Jam,mobile,2005.0,$4M,37.765125,-122.4044034
+Zannel,web,,$16M,37.775196,-122.419204
+Wikinvest,web,2006.0,$2.5M,37.775196,-122.419204
+Rupture,games_video,,$3M,37.783898,-122.395234
+Whiskey Media,web,2007.0,$4M,37.856331,-122.495222
+Blurb,ecommerce,2005.0,$21.6M,37.792968,-122.40414
+The Climate Corporation,cleantech,2006.0,$109M,37.782809,-122.394354
+Automattic,web,2005.0,$30.6M,37.744274,-122.421344
+Radar Networks,advertising,,$24M,37.7753,-122.398058
+Gydget,web,2007.0,$1M,37.791733,-122.398398
+Songbird,mobile,2006.0,$11M,37.787126,-122.39783
+BrightRoll,advertising,2006.0,$46M,37.794643,-122.401144
+Doppelganger,web,,$11M,37.762162,-122.413912
+Adteractive,advertising,,$5.1M,37.78554,-122.396689
+Podaddies,advertising,2006.0,$1M,37.7726402,-122.4099154
+beRecruited,sports,2000.0,$1.2M,33.754487,-84.389663
+Splunk,software,2003.0,$40M,37.78274,-122.390945
+Dapper,advertising,2006.0,$3M,37.7766184,-122.3938931
+Masala,web,,$4.5M,37.09024,-95.712891
+HubPages,web,2006.0,$8M,37.7876952,-122.3991505
+PlayFirst,games_video,2004.0,$37.7M,37.790346,-122.40185
+Deem,ecommerce,2000.0,$467M,37.559836,-122.271532
+Mobissimo,search,2003.0,$1M,37.78624,-122.39897
+Causes,nonprofit,2007.0,$16.4M,37.870258,-122.272513
+Shozu,mobile,2001.0,$36M,37.771706,-122.402683
+Scrapblog,web,2006.0,$10M,25.752358,-80.25468
+Meraki,network_hosting,2006.0,$80M,37.392443,-122.072517
+Outspark,games_video,2007.0,$23.3M,37.775196,-122.419204
+Widgetbox,other,2012.0,$14.5M,37.798853,-122.398599
+Zynga,games_video,2007.0,$860M,37.765158,-122.404234
+Roost,software,2007.0,$13.5M,37.7891288,-122.4020276
+Craigslist,web,1995.0,$13.5M,37.762512,-122.46649
+Three Rings,web,2001.0,$7M,37.775196,-122.419204
+Coverity,enterprise,2002.0,$22M,37.7759675,-122.3931128
+doubleTwist,software,2007.0,$7.5M,37.775196,-122.419204
+Ad Infuse,advertising,2005.0,$17.6M,37.793375,-122.404571
+SendMe,mobile,2006.0,$34.5M,37.787126,-122.39783
+Tiny Pictures,mobile,2005.0,$11.2M,37.781002,-122.406912
+Flurry,advertising,2005.0,$63.3M,37.783046,-122.394067
+Bleacher Report,sports,2007.0,$40.5M,37.776467,-122.395792
+Sportgenic,advertising,2005.0,$11.5M,37.790485,-122.40094
+99designs,design,2008.0,$35M,37.7955307,-122.4005983
+OpenDNS,security,2005.0,$16.3M,37.789268,-122.395184
+PopularMedia,advertising,2003.0,$12.3M,37.767575,-122.411157
+Elastra,software,2007.0,$14.6M,37.791137,-122.391843
+kwiry,mobile,2006.0,$1M,37.7885714,-122.4035985
+CITTIO,software,,$11.5M,37.7867612,-122.4014585
+Rapt,software,,$11.2M,37.781689,-122.391061
+PopJax,web,,$4.7M,37.796216,-122.403755
+Netbooks,web,2006.0,$16.4M,37.79471,-122.40195
+Wikimedia Foundation,nonprofit,2003.0,$74M,37.76785,-122.392839
+Xoopit,web,2004.0,$6.5M,37.7617955,-122.4092704
+Placecast,mobile,2005.0,$8M,37.773688,-122.423468
+Stylehive,ecommerce,,$2.62M,37.787646,-122.402759
+Marin Software,advertising,2006.0,$100M,37.792083,-122.3946404
+Boxbe,web,2005.0,$1.5M,37.800209,-122.442592
+RichRelevance,ecommerce,2006.0,$57.8M,37.7938969,-122.4000965
+GitHub,software,2008.0,$100M,37.775196,-122.419204
+SQLstream,analytics,2002.0,$6.27M,37.775058,-122.419966
+Serious Business,games_video,2008.0,$4M,37.7893215,-122.4013624
+RateItAll,web,1999.0,$1.4M,37.755012,-122.418137
+Tealeaf,advertising,1997.0,$12M,37.791242,-122.397133
+Kabam,games_video,2006.0,$125M,37.3944561,-122.0785314
+New Relic,software,2008.0,$175M,37.269175,-119.306607
+Zinch,web,2007.0,$5M,40.234451,-111.658656
+Yoono,web,2006.0,$5.45M,37.787204,-122.397884
+Citizen Sports,games_video,,$10M,37.777513,-122.397044
+TuneUp,music,2007.0,$15.6M,37.7654195,-122.4119381
+Wavemaker Software,software,,$14.7M,37.789518,-122.394265
+Stitcher,mobile,2008.0,$18.7M,37.775196,-122.419204
+TerraPass,web,2004.0,$5.8M,37.787445,-122.397847
+Zoosk,social,2007.0,$61.6M,37.7726402,-122.4099154
+Zinio,news,,$27M,37.7915,-122.40045
+PurePlay,games_video,2004.0,$15M,37.775196,-122.419204
+Aruspex,software,2003.0,$3.77M,37.790346,-122.40185
+Cloudmark,security,2001.0,$38.5M,37.779507,-122.39071
+TRUSTe,enterprise,1997.0,$37M,37.7886685,-122.4005576
+Jambool,finance,2006.0,$6M,37.782101,-122.389519
+StartForce,web,2006.0,$6M,37.796164,-122.420903
+Socialcast,enterprise,2005.0,$9.4M,37.7819267,-122.3932389
+Razz,software,2002.0,$10M,37.766909,-122.406676
+InsideView,enterprise,2005.0,$56.5M,37.764169,-122.402021
+Clickability,enterprise,1999.0,$11.5M,37.7932747,-122.399929
+WideOrbit,advertising,1999.0,$34.5M,37.7895289,-122.3885899
+Keibi Technologies,software,2006.0,$5M,37.787646,-122.402759
+Genbook,web,2007.0,$2.2M,37.789902,-122.4007791
+Flowgram,web,2007.0,$1.3M,37.7710177,-122.4025976
+Achievers,software,1995.0,$50.1M,43.637296,-79.425455
+Involver,software,2007.0,$11.3M,37.788653,-122.401333
+ON24,web,1998.0,$8M,37.7850326,-122.4004738
+trueAnthem,advertising,2008.0,$7.48M,37.8059887,-122.4099154
+Lexy,games_video,2006.0,$1.71M,37.786906,-122.397672
+Hands-On Mobile,mobile,2001.0,$30M,37.775196,-122.419204
+Carbonetworks,cleantech,2005.0,$5M,37.805289,-122.404448
+Minted,ecommerce,2007.0,$52.7M,37.797435,-122.403175
+Appirio,enterprise,2006.0,$80.7M,37.5552776,-122.2997532
+Kontagent,analytics,2007.0,$17.5M,37.7797255,-122.4020593
+Huddler,web,2007.0,$22.8M,37.7893215,-122.4013624
+Zorap,web,2008.0,$2.25M,37.775196,-122.419204
+ngmoco,games_video,2008.0,$44.8M,37.7705096,-122.4015807
+Sharethrough,advertising,2008.0,$11M,37.7976785,-122.4018163
+Paymo,mobile,,$5M,37.798684,-122.40264
+Innotas,software,2000.0,$21.3M,37.787722,-122.3993979
+Foodzie,ecommerce,,$1.02M,40.0173513,-105.2773493
+Demandbase,analytics,2006.0,$33M,37.796843,-122.400346
+AdRocket,advertising,2008.0,$1M,37.775196,-122.419204
+Yammer,enterprise,2008.0,$142M,37.776246,-122.4179223
+GoodGuide,web,2007.0,$14.2M,37.7983181,-122.4000032
+Telespree,software,1998.0,$1M,37.777092,-122.391011
+ConnectSolutions,enterprise,2007.0,$10M,37.580093,-122.347745
+Lolapps,web,2008.0,$4M,37.7870923,-122.3999719
+Penguin Computing,software,1998.0,$16.3M,37.783171,-122.392901
+InnerRewards,ecommerce,2008.0,$1M,37.78691,-122.404403
+Innotas,software,2000.0,$21.3M,37.787722,-122.3993979
+Foodzie,ecommerce,,$1.02M,40.0173513,-105.2773493
+Demandbase,analytics,2006.0,$33M,37.796843,-122.400346
+AdRocket,advertising,2008.0,$1M,37.775196,-122.419204
+Yammer,enterprise,2008.0,$142M,37.776246,-122.4179223
+GoodGuide,web,2007.0,$14.2M,37.7983181,-122.4000032
+Telespree,software,1998.0,$1M,37.777092,-122.391011
+ConnectSolutions,enterprise,2007.0,$10M,37.580093,-122.347745
+Lolapps,web,2008.0,$4M,37.7870923,-122.3999719
+Penguin Computing,software,1998.0,$16.3M,37.783171,-122.392901
+InnerRewards,ecommerce,2008.0,$1M,37.78691,-122.404403
+Brightstorm,games_video,2008.0,$6M,37.804619,-122.371203
+PicApp,web,2008.0,$3.2M,37.79402,-122.4031242
+Smule,music,2008.0,$25.5M,37.779624,-122.391236
+OQO,mobile,2000.0,$39.8M,37.759117,-122.415869
+Mindjet,software,1995.0,$15M,50.095312,9.049981
+Vinfolio,ecommerce,2003.0,$10.6M,37.763293,-122.410752
+Booyah,games_video,2008.0,$59.5M,37.420728,-122.2103414
+Formspring,web,2009.0,$14.3M,39.9052263,-86.0547016
+DocVerse,web,2007.0,$1.3M,37.788115,-122.397141
+Twilio,enterprise,2007.0,$104M,37.7898499,-122.4006831
+LoopNet,ecommerce,1995.0,$50M,37.7759421,-122.3931139
+Fanminder,advertising,2008.0,$1M,37.3792486,-122.1151274
+Sojern,travel,2007.0,$42.5M,41.238038,-96.183033
+Soma Networks,network_hosting,1999.0,$51M,37.7710402,-122.4026325
+YieldBuild,advertising,,$6M,37.7877967,-122.3989376
+Coveroo,hardware,2008.0,$3.8M,37.770067,-122.407603
+Clikthrough,software,2007.0,$2M,37.7965781,-122.4022856
+SenSage,security,2004.0,$37.1M,37.785655,-122.398393
+Jaspersoft,software,2001.0,$43.5M,37.765388,-122.403111
+Envivio,software,2000.0,$59M,37.665469,-122.38222
+SeeSaw Networks,advertising,2005.0,$21.1M,37.791564,-122.399981
+Klout,social,2008.0,$40M,34.0497638,-118.2474287
+Mocana,security,2002.0,$50.5M,37.793783,-122.401001
+LiveVox,web,1999.0,$12.1M,37.794643,-122.401144
+Fuego Nation,web,2007.0,$1.5M,37.775196,-122.419204
+CrowdFlower,enterprise,2007.0,$13.2M,37.7652755,-122.4204782
+Double Fusion,web,2004.0,$59M,37.7887135,-122.3927145
+5th Finger,mobile,2008.0,$7M,37.7900992,-122.4021988
+SmartTurn,advertising,2004.0,$5M,37.789801,-122.395327
+SpongeFish,web,,$2M,37.7800788,-122.3943096
+NorthStar Systems International,software,2001.0,$29.5M,37.789551,-122.40036
+Focus,enterprise,2005.0,$12.2M,37.793949,-122.398062
+Meez,hardware,2009.0,$10.2M,37.785271,-122.397582
+Pulse Entertainment,mobile,1994.0,$7M,37.796396,-122.404869
+Donnorwood Media,web,,$5M,37.785271,-122.397582
+LesConcierges,public_relations,1987.0,$27.4M,37.789518,-122.394265
+Skout,social,2007.0,$22M,37.7800539,-122.3912492
+CyberArts,software,,$16.3M,37.737609,-122.435399
+Granicus,software,1999.0,$10.3M,37.787445,-122.397847
+Glu Mobile,mobile,2001.0,$23.6M,37.7911371,-122.3973539
+Neocase Software,software,2001.0,$16.5M,37.785655,-122.398393
+KODA,web,2008.0,$4.5M,37.788796,-122.40971
+Visage Mobile,enterprise,2001.0,$14M,37.795141,-122.401194
+Socialize,mobile,2008.0,$1.82M,38.88521,-76.998641
+Eightfold Logic,advertising,2006.0,$19.4M,37.7870841,-122.4010675
+PaperG,advertising,2008.0,$2.7M,37.7905948,-122.406111
+Unity Technologies,games_video,2004.0,$17.5M,55.6924605,12.530107
+SuperSecret,web,,$10M,37.7775896,-122.3956019
+Home-Account,finance,2008.0,$1M,37.778551,-122.391686
+CoTweet,advertising,2009.0,$1.1M,37.7405936,-122.3764714
+Birst,enterprise,2004.0,$64M,37.789471,-122.404113
+Canopy Financial,finance,2004.0,$89.5M,37.791388,-122.392148
+Marketcetera,software,2006.0,$4M,37.788864,-122.4008487
+RainStor,analytics,2004.0,$26.3M,51.865488,-2.235187
+Playboox,software,,$3M,37.7870283,-122.4000192
+PlantSense,web,2006.0,$8.66M,37.7697623,-122.4183929
+Fliptop,enterprise,2010.0,$6.79M,37.775206,-122.419209
+Sunrun,cleantech,2007.0,$337M,37.7871306,-122.4041075
+ACT Biotech,biotech,2008.0,$27M,37.7871306,-122.4041075
+Recurrent Energy,cleantech,,$85M,37.805289,-122.404448
+Autonomic Technologies,medical,2007.0,$55M,37.775196,-122.419204
+Osprey Pharmaceuticals USA,biotech,1998.0,$16.9M,37.775196,-122.419204
+UTOPY,software,1999.0,$7.5M,37.767575,-122.411157
+Siluria Technologies,nanotech,2008.0,$103M,37.4484914,-122.1802812
+ZoomSystems,hardware,2002.0,$87M,37.781689,-122.391061
+TeachScape,software,1999.0,$16M,37.7869047,-122.4043924
+Roc2Loc,cleantech,,$2M,37.782475,-122.407764
